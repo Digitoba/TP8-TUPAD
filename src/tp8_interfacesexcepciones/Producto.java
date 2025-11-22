@@ -16,6 +16,19 @@ public class Producto implements Pagable {
     public double calcularTotal() {
         return precio;
     }
-    
+
+    public String getNombre() {
+        return nombre;
+    }
+
+    public double getPrecio() {
+        return precio;
+    }   
+
+    @Override
+    public String toString() {
+        return "Producto: " + nombre + "; Precio: $ " + precio;
+    }
+       
     
 }
