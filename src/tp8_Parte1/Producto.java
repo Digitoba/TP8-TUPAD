@@ -1,5 +1,5 @@
 
-package tp8_interfacesexcepciones;
+package tp8_Parte1;
 
 
 public class Producto implements Pagable {

@@ -1,8 +1,8 @@
 
-package tp8_interfacesexcepciones;
+package tp8_Parte1;
 
 
-public class TP8_InterfacesExcepciones {
+public class TP8_Parte1 {
 
 
     public static void main(String[] args) {
