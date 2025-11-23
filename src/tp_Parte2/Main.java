@@ -5,7 +5,7 @@ import java.io.File;
 import java.util.Scanner;
 
 
-public class TP8_Parte2 {
+public class Main {
 
 
     public static void main(String[] args) {

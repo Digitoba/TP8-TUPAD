@@ -2,7 +2,7 @@
 package tp8_Parte1;
 
 
-public class TP8_Parte1 {
+public class Main {
 
 
     public static void main(String[] args) {
